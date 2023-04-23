@@ -27,6 +27,7 @@ function App() {
       setNumImg={setNumberImg}/>
             
     </div>
+    
   )
 }
 
